@@ -75,12 +75,12 @@
 
 # How to run
 
-- yarn or npm install
-- You need to run `react-native run-android.
+- yarn or npm install after
+- You need to run react-native run-android or yarn android.
 
 # How to run units tests in jest
 
-- yarn jest -u or test.
+- yarn jest -u or yarn test.
 
 # Deploy
 
@@ -114,7 +114,6 @@
 
 # Business Rules
 
-- An Onboarding having two screens: one with a short description of the application and another one having
-an input for retrieving the user favorite hero.
-- A screen for listing comics of the selected hero. Each comic item in the list should display cover, issue
-number, name and price. I want to be able to change my favorite hero.
+- An Onboarding having two screens: 
+one with a short description of movie and another one having
+an input for retrieving the user favorite movie.
