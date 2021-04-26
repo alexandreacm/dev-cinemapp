@@ -1,6 +1,6 @@
 # About
 
-- Create an app for watch some movies and obtain movie informations, We would recommend using the OMDb API
+- Created an app for watch some movies and obtain movie informations, We would recommend using the OMDb API
   (http://www.omdbapi.com//) for retrieving the movies list.
 
 # Team
@@ -19,6 +19,8 @@
 
 - react 17.0.1
 - react-native 0.64.0
+- react-native-async-storage ^1.15.4
+- @react-navigation/material-top-tabs ^6.0.0-next.3
 - @react-navigation/native ^5.8.10
 - @react-navigation/stack ^5.12.8
 - @reduxjs/toolkit ^1.5.0
